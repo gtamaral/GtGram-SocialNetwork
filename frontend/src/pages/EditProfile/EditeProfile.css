@@ -1,0 +1,19 @@
+#edit-profile {
+    border: 1px solid #989595;
+    background-color: black;
+    padding: 1.5em 2em;
+    width: 30%;
+    margin: 2em auto;
+    text-align: center;
+}
+
+.subtitle {
+    color: #ccc;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 1em;
+}

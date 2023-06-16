@@ -1,0 +1,17 @@
+.photo-item img {
+    width: 100%;
+}
+
+.photo-item h2 {
+    margin-bottom: 0.2em;
+    padding: 0.01em;
+}
+
+.photo-author {
+    text-align: left;
+    color: #55a1ed;
+}
+
+.photo-author a {
+    font-weight: bold;
+}

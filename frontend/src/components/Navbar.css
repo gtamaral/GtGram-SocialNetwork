@@ -1,0 +1,61 @@
+#nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+    border-bottom: 2px solid #989595 ;
+    padding: 0.1em 1em;
+}
+
+#search-form {
+    position: relative;
+    width: 20%;
+
+}
+
+#search-form svg {
+    position: absolute;
+    top: 8px;
+    left: 9px;
+    color: #989595;
+}
+
+#search-form input {
+    padding-left: 2.5em;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    margin: 0;
+}
+
+#text {
+    position: absolute;
+    top: 20px;
+
+    color: blue;
+    justify-content: center;
+    align-items: center;
+}
+
+#nav-links {
+    display: flex;
+    align-items: center;
+}
+#nav-links li {
+    margin-right: 1em;
+}
+
+#nav-links span {
+    cursor: pointer;
+}
+#nav-links svg {
+    font-size: 1.5em;
+}
+
+#nav a {
+    color: #fff;
+}
+
+#nav span {
+    color: #c74e4e;
+}
